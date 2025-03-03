@@ -1,7 +1,5 @@
 <p align="center">
-<a href="https://laravel.com"  target="_blank"><img src="https://i.imgflip.com/4/6woq7y.jpg"  width="360"  alt="Laravel Logo"></a>
-<a href="https://laravel.com"  target="_blank"><img src="https://ik.polines.ac.id/wp-content/uploads/2023/11/logo-web.png"  width="360"  alt="Laravel Logo"></a> 
-<a  href="https://laravel.com"  target="_blank"><img src="https://ik.polines.ac.id/wp-content/uploads/2024/02/laravel-logo.jpg"  width="220"  alt="Laravel Logo"></a>
+<a href="https://laravel.com"  target="_blank"><img src="https://i.imgflip.com/6moef.jpg?a483192"  width="360"  alt="Laravel Logo"></a>
 </p>  
 
 # Sistem Informasi Akademik Sekolah + Presensi Online 1 & 2
@@ -60,4 +58,4 @@ Terima Kasih kepada:
 - Ketua Jurusan Teknik Elektro, Politeknik Negeri Semarang
 - Task Force PBL D3 Teknik Informatika & S.Tr. Teknologi Rekayasa Komputer
 <hr>
-Modifikasi dari Project: https://github.com/mjumain/RBAC-LARAVEL-9
+Modifikasi dari Project: https://gitlab.com/sukotyasp/pbl-laravel-template
