@@ -1,12 +1,8 @@
-
 <p align="center">
-<a href="https://laravel.com"  target="_blank"><img  src="https://ik.polines.ac.id/wp-content/uploads/2023/11/logo-web.png"  width="360"  alt="Laravel Logo"></a> 
-<a  href="https://laravel.com"  target="_blank"><img  src="https://ik.polines.ac.id/wp-content/uploads/2024/02/laravel-logo.jpg"  width="220"  alt="Laravel Logo"></a>
+<a href="https://laravel.com"  target="_blank"><img src="https://i.imgflip.com/6moef.jpg?a483192"  width="360"  alt="Laravel Logo"></a>
 </p>  
 
-# PBL Template D3 Teknik Informatika & S.Tr. Teknologi Rekayasa Komputer
-
-Repository ini digunakan sebagai template aplikasi dasar yang akan digunakan untuk pelaksanaan <i><b>Project-Based Learning</b></i> pada kedua prodi di atas di Jurusan Teknik Elektro, Politeknik Negeri Semarang.
+# Sistem Informasi Akademik Sekolah + Presensi Online 1 & 2
 
 <i>Minimum requirements</i> untuk menjalankan template ini adalah:
 - PHP 8.2
@@ -16,7 +12,7 @@ Repository ini digunakan sebagai template aplikasi dasar yang akan digunakan unt
 Cara menggunakan template ini adalah sebagai berikut:
 1. Dengan menggunakan ``terminal`` atau ``command prompt``, duplikasi template ini menggunakan perintah:
 ```
-git clone https://gitlab.com/sukotyasp/pbl-laravel-template.git {project-directory}
+git clone https://github.com/iammburg/siakad-polines-pbl.git
 ```
 2. Masuk ke ``{project-directory}``, hapus folder **hidden** bernama `` .git``.
 3. Alternatif selain melakukan langkah 1. dan 2., anda dapat mengunduh versi terbaru yang dipublikasikan pada link <a href='https://gitlab.com/sukotyasp/pbl-laravel-template/-/releases'>berikut</a>. Kemudian ``extract`` file yang anda unduh. Buka ``terminal`` atau ``command prompt``, lalu pilih folder hasil ekstrak sebagai folder aktif pada command line.
@@ -62,4 +58,4 @@ Terima Kasih kepada:
 - Ketua Jurusan Teknik Elektro, Politeknik Negeri Semarang
 - Task Force PBL D3 Teknik Informatika & S.Tr. Teknologi Rekayasa Komputer
 <hr>
-Modifikasi dari Project: https://github.com/mjumain/RBAC-LARAVEL-9
+Modifikasi dari Project: https://gitlab.com/sukotyasp/pbl-laravel-template
